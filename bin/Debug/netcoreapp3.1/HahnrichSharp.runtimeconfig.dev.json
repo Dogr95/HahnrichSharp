@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/vertikarl/.dotnet/store/|arch|/|tfm|",
+      "/home/vertikarl/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+/home/vertikarl/PycharmProjects/HahnrichSharp/bin/Release/netcoreapp3.1/HahnrichSharp
+/home/vertikarl/PycharmProjects/HahnrichSharp/bin/Release/netcoreapp3.1/HahnrichSharp.deps.json
+/home/vertikarl/PycharmProjects/HahnrichSharp/bin/Release/netcoreapp3.1/HahnrichSharp.runtimeconfig.json
+/home/vertikarl/PycharmProjects/HahnrichSharp/bin/Release/netcoreapp3.1/HahnrichSharp.runtimeconfig.dev.json
+/home/vertikarl/PycharmProjects/HahnrichSharp/bin/Release/netcoreapp3.1/HahnrichSharp.dll
+/home/vertikarl/PycharmProjects/HahnrichSharp/bin/Release/netcoreapp3.1/HahnrichSharp.pdb
+/home/vertikarl/PycharmProjects/HahnrichSharp/obj/Release/netcoreapp3.1/HahnrichSharp.csprojAssemblyReference.cache
+/home/vertikarl/PycharmProjects/HahnrichSharp/obj/Release/netcoreapp3.1/HahnrichSharp.AssemblyInfoInputs.cache
+/home/vertikarl/PycharmProjects/HahnrichSharp/obj/Release/netcoreapp3.1/HahnrichSharp.AssemblyInfo.cs
+/home/vertikarl/PycharmProjects/HahnrichSharp/obj/Release/netcoreapp3.1/HahnrichSharp.dll
+/home/vertikarl/PycharmProjects/HahnrichSharp/obj/Release/netcoreapp3.1/HahnrichSharp.pdb
